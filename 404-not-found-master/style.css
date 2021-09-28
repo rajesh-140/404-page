@@ -22,22 +22,24 @@ p {
  font-weight: 400;
  font-size: 18px;
  font-style: normal;
- margin-bottom: 40px;
+ margin-bottom: 60px;
 }
 a {
     text-decoration: none;
     font-family: monospace;
     font-weight: 700;
     font-size: 16px;
-    padding:18px;
+    padding:20px;
     background-color: #333333;
     color:#FFFFFF;
-    margin-left:5px; 
+    margin-left:8px; 
+    
 }
 footer {
     Font-family:Montserrat;
     font-size:14px;
     color:#BDBDBD;
-     margin-top: 40px;
+    text-align-last:center;
+     margin-top: 100px;
     margin-left: 70px;
 }
